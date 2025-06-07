@@ -1,12 +1,12 @@
-8weeksqlchallenge-dannys_dinner
+**8weeksqlchallenge-dannys_dinner**
 
-🍜 Danny's Diner SQL Challenge
+**🍜 Danny's Diner SQL Challenge**
 This repository contains my solution to the Danny's Diner SQL challenge, part of Danny Ma's 8-Week SQL Challenge. This case study is focused on analyzing customer dining behavior using SQL.
 
-📝 Challenge Overview
+**📝 Challenge Overview**
 Danny operates a small restaurant and wants to gain insights into customer visits, order patterns, and spending habits. The dataset provided includes information about customers, menu items, and transactions. The challenge involves writing SQL queries to answer a set of business questions based on this data.
 
-📂 Case Study #1: Danny’s Diner
+**📂 Case Study #1: Danny’s Diner**
 Datasets
 sales: Records of customer purchases.
 
@@ -14,7 +14,7 @@ menu: Menu items and their prices.
 
 members: Loyalty program membership info.
 
-Business Questions
+**Business Questions**
 The challenge includes the following questions:
 
   1. What is the total amount each customer spent at the restaurant?
@@ -40,12 +40,12 @@ The challenge includes the following questions:
 
 ✅ You can find all SQL solutions in the solutions.sql file.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 PostgreSQL / SQL (compatible with other SQL flavors)
 
 Git & GitHub for version control
 
-📌 Key Learnings
+**📌 Key Learnings**
 SQL joins and subqueries
 
 Window functions
@@ -56,7 +56,7 @@ Case logic and conditional expressions
 
 Date comparison and filtering
 
-🚀 Getting Started
+**🚀 Getting Started**
 You can replicate this challenge by:
 
 Visiting the official challenge page: 8 Week SQL Challenge - Case Study #1
@@ -65,7 +65,7 @@ Setting up the sample data in your SQL environment.
 
 Running the SQL queries provided in this repo.
 
-📬 Connect
+**📬 Connect**
 Feel free to connect with me on:
 
 LinkedIn <!-- Replace with your LinkedIn URL -->
