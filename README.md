@@ -1,3 +1,5 @@
+8weeksqlchallenge-dannys_dinner
+
 🍜 Danny's Diner SQL Challenge
 This repository contains my solution to the Danny's Diner SQL challenge, part of Danny Ma's 8-Week SQL Challenge. This case study is focused on analyzing customer dining behavior using SQL.
 
