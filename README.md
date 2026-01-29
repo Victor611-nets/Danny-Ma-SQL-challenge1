@@ -82,10 +82,6 @@ Twitter
 
 Portfolio
 
-Or fork and star this repo if you found it helpful!
-
-Let me know if you'd like me to add a specific style (like emojis, badges, or a table of contents), or if you want help writing the solutions.sql file as well!
-
 
 
 
